@@ -1,0 +1,126 @@
+html, td, div {font-family:Dosis, sans-serif;font-size:16px;font-weight:300;color:#555555;}
+body {margin:0}
+.topheader {min-height:92px;background-image:url(../images/stripes.png);;background-color:#32463B}
+.container {max-width:1190px;box-sizing:border-box;padding:0 10px;margin:0 auto;position:relative;}
+.left {float:left;}
+.right {float:right;}
+.topheader .left img {float:left;margin-right:10px;;padding-top:12px;padding-bottom:15px;;}
+.topheader .left {font-size:10px;text-transform:uppercase;color:white;font-family:Arial, helvetica, sans-serif;max-width:480px;padding-top:16px;}
+.topheader .left b {color:#FFF200;font-weight:700}
+.topheader .right {font-size:24px;color:white;padding-top:30px;}
+.header2 {background-color:#9b9b9b;padding:13px 0;line-height:28px;}
+.header2 img {vertical-align:middle;}
+.bighex {position:absolute;left:50%;margin-left:-106px;top:-52px}
+#menu1 {position:absolute;;left:0;width:100%;z-index:9999;display:none;background-color:rgba(255,255,255,.7);}
+#menu1 a {font-size:20px;padding:5px;display:block;color:#9b9b9b;text-decoration:none}
+.block1 .rightside {max-width:376px;float:right;width:100%;margin-top:20px;}
+.block1 .leftside {max-width:calc(100% - 396px);float:left;margin-right:20px;width:100%}
+
+.block1 .orange {position:absolute;width:50%;height:413px;background-color:#ce2027;margin-top:141px}
+.block1 .orangestuff {height:413px;background-color:#ce2027;position:relative;margin-top:141px;padding-right:50px;color:white}
+.block1 .orangestuff img {top:0;right:0;position:absolute;}
+.block1 .orangestuff h1 {padding-top:15px;padding-bottom:20px;margin-top:0;margin-bottom:5px;font-weight:300;font-size:80px;border-bottom:1px solid white;line-height:65px;}
+.block1 .orangestuff li {font-size:28px;}
+.bottle {float:left;margin-right:40px;positon:relative;padding-top:20px;position:relative;z-index:2;margin-left:-115px}
+.block1 .innerorange {width:100%;max-width:360px;float:left;color:white;}
+.bigform {border:8px solid #9b9b9b}
+.bigform h3 {font-size:30px;color:white;font-weight:700;background-color:#9b9b9b;text-align:center;padding:15px 0;margin:0;}
+.bigform form {padding:15px;}
+.bigform label {display:inline-block;width:110px;padding-right:10px;text-align:right;}
+.bigform input[type="text"] {width: calc(100% - 130px);border:1px solid #CCCCCC;margin-bottom:5px;height:29px;box-sizing:border-box;border-radius:5px;}
+.bigform select {width: calc(100% - 130px);border:1px solid #CCCCCC;margin-bottom:5px;height:29px;box-sizing:border-box;border-radius:5px;}
+.doctor {float:left;margin-right:30px;max-width:100%}
+h3 {font-size:28px;font-weight:700}
+
+.midline {background-color:#9b9b9b;text-align:center;height:91px;margin-bottom:25px;}
+.midline img {margin-top:-27px;position:relative;}
+.cell33 {float:left;width:29%;margin-right:6.5%;font-size:18px;}
+.cell33:nth-child(3n){margin-right:0}
+.cell33 img {display:block;max-width:100%;margin:0 auto;}
+.cell33 b {font-weight:700;margin-top:15px;margin-bottom:20px;padding-bottom:20px;border-bottom:1px solid #555555;font-size:24px;display:block;}
+
+h4 {text-align:center;font-size:40px;font-weight:300;margin:20px 0}
+.ache {float:left;margin-right:60px}
+.block2 .orange {position:absolute;width:50%;left:50%;height:413px;background-color:#ce2027;margin-top:30px}
+.block2 .orangestuff > img {position:absolute;top:0;left:0;}
+.block2 .orangestuff {margin-top:30px;height:413px;background-color:#ce2027;width:100%;max-width:calc(100% - 570px);float:right;position:relative;padding-left:90px;box-sizing:border-box;padding-right:170px;padding-top:30px;}
+.block2 .innerorange {color:white;}
+.block2 .innerorange h5 {border-bottom:1px solid white;font-size:42px;font-weight:300;margin:10px 0}
+.bottle1 {float:left;margin-right:43px;}
+.block2 li{text-transform:uppercase;margin-top:5px;margin-bottom:5px}
+hr {background-color:#555555;color:#555555;border:0;height:1px;margin:20px 0}
+.features {width:calc(50% - 172px);text-align:center;font-size:24px;text-transform:uppercase;padding-top:100px;padding-bottom:100px;height:460px}
+.mainbottle {;position:absolute;left:50%;margin-left:-257px;}
+.bottle2 {float:left;margin-right:25px;}
+h2 {margin-top:20px;padding-top:25px;font-size:48px;font-weight:300;line-height:3px;}
+.bottle3 {float:right;margin-left:10px;margin-top:-20px}
+.block3 .innerorange {color:white;position:relative;height:413px;background-color:#ce2027;box-sizing:border-box;padding:30px;background-image:url(../images/gmp.png);background-position:right;background-repeat:no-repeat;padding-right:151px;width:calc(100% - 270px);margin-top:5px;margin-bottom:40px;float:left;font-size:19px;}
+.block3 .orange {position:absolute;width:50%;left:0%;height:413px;background-color:#ce2027;margin-top:5px}
+.block3 .innerorange > img {position:absolute;top:0;right:0}
+.borderbox {position:relative;border:6px dashed #9BC860;padding:20px;margin-bottom:65px;}
+.bigquote {position:absolute;top:-92px;left:45px;}
+.testbox {display:flex;flex-wrap:wrap;justify-content:center;}
+.desktoponly {display:block;}
+.mobileonly {display:none}
+.test {position:relative;box-sizing:border-box;width:100%;max-width:362px;padding:20px;text-align:center;padding-top:60px;padding-bottom:60px;font-style:italic;line-height:180%;font-size:18px;align-self:flex-end;}
+.test img:first-child {position:absolute;bottom:-26px;left:0;}
+.test img:nth-child(2) {display:block;max-width:100%;margin:0 auto}
+.test b {display:block;font-weight:700;font-size:18px;text-transform:uppercase;font-style:normal;margin-top:10px;margin-bottom:20px;}
+.test strong {font-weight:700;font-style:normal;display:block;}
+.test small {font-weight:300;font-style:normal;display:block;font-size:18px;}
+.end {background-image:url(../images/stripes2.png);padding-top:20px;padding-bottom:150px;}
+.end a {color:white;text-decoration:none}
+.end .container {color:white;font-size:12px;text-align:center;}
+@media(max-width:1190px) {
+	.block1 .orange {display:none;}
+	.shifted {float:none;margin:0 auto;text-align:center;}
+	.block1 .orangestuff {background-color:white;color:#555555;height:auto;margin-top:15px;margin-bottom:15px}
+	.block1 .orangestuff > img {display:none;}
+	.doctor {display:none;float:none;margin:0 auto;}
+	.block1 .innerorange {color:#555555;width:100%;float:none;max-width:100%;text-align:center;}
+	.bottle {float:none;margin:0 auto;display:block;max-width:80%;}
+	.block2 .orangestuff {width:100%;float:none;clear:both;margin-bottom:10px;max-width:100%}
+	.block2 .innerorange {padding-right:10px}
+	.ache {max-width:100%;display:block;float:none;margin:0 auto;}
+	.block2 .orange {margin-top:0}
+	.bigquote {height:40px;top:-20px}
+}
+
+@media(max-width:950px) {
+		.block3 .innerorange {width:100%;float:none;clear:both;display:block;}
+	.block3 .orange {margin-top:0}
+.bottle3 {margin:30px auto;display:block;float:none;clear:both;max-width:100%;}
+.test img:first-child {position:relative;bottom:auto;left:auto;margin:0 auto;display:block;margin-bottom:15px;}
+
+}
+@media(max-width:800px) {
+
+	.topheader .left img {max-width:20vw}
+	.topheader .left {width:100%;float:none;margin:0 auto;}
+	.topheader .right {display:block;float:none;clear:both;text-align:center;padding-top:0;padding-bottom:15px;}
+	.bighex {display:none}
+}
+@media(max-width:800px) {
+	.block2 .orangestuff {padding-right:10px}
+	.block1 .leftside {float:none;clear:both;width:100%;max-width:100%}
+	.block1 .rightside {float:none;clear:both;margin-left:auto;margin-right:auto}
+}
+@media(max-width:650px) {
+	.desktoponly {display:none;}
+.mobileonly {display:block}
+	.block3 .orange {display:none}
+	.block3 .innerorange {color:#555555;padding:30px;background-color:white;background-image:none;text-align:center;margin-top:0;margin-bottom:15px;height:auto}
+	.block3 .innerorange > img {display:none}
+	.cell33 {float:none;clear:both;width:100%;margin-right:0;margin-bottom:20px}
+	.cell33:nth-child(3n) {margin-bottom:0}
+	.midline {margin-top:30px}
+	.bottle1 {display:none}
+	.mainbottle {position:relative;margin:0 auto;left:auto;max-width:100%;display:none}
+	.features {width:49%;padding-top:20px;padding-bottom:20px;height:auto}
+	.features:nth-child(1) {border-bottom:1px solid #555555;margin-bottom:20px;padding-bottom:20px}
+}
+@media(max-width:500px) {
+	.bottle2 {float:none;clear:both;margin:0 auto;display:block;}
+	.features.left {float:none;clear:both;width:100%;padding:0;padding-bottom:20px}
+	.features.right {float:none;clear:both;width:100%;padding:0}
+}
